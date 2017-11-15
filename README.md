@@ -12,9 +12,9 @@
 
 ### Please cite this project in your publications if it helps your research
 
-@article{zhao2017smartphoneSHM,
-  Author = {Zhao, Xuefeng and Zhao, Qingan and Yu, Yan and Chen Yuting and Liu, Hao and Li, Mingchu and Ou, Jinping},
-  Journal = {Journal of Performance of Constructed Facilities, 31(4), 04017029},
-  Title = {Distributed Displacement Response Investigation Technique for Bridge Structures Using Smartphones},
-  Year = {2017}
-}
+  @article{zhao2017smartphoneSHM,
+    Author = {Zhao, Xuefeng and Zhao, Qingan and Yu, Yan and Chen Yuting and Liu, Hao and Li, Mingchu and Ou, Jinping},
+    Journal = {Journal of Performance of Constructed Facilities, 31(4), 04017029},
+    Title = {Distributed Displacement Response Investigation Technique for Bridge Structures Using Smartphones},
+    Year = {2017}
+  }

@@ -8,8 +8,6 @@
 
 4. Applied the technique to bridge SHM
 
-5. Published a journal paper which has been uploaded in the "publication" folder
-
 ### Please cite the following article in your publications if it helps your research
 
 ```
